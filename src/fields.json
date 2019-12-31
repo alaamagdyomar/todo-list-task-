@@ -1,0 +1,25 @@
+{
+  "title": {
+    "type": "text",
+    "name": "title",
+    "placeholder": "Title",
+    "validations": {}
+  },
+  "description": {
+    "type": "textarea",
+    "name": "description",
+    "placeholder": "Description",
+    "validations": {}
+  },
+  "userID": {
+    "type": "select",
+    "name": "userID",
+    "validations": {}
+  },
+  "active": {
+    "type": "checkbox",
+    "name": "active",
+    "validations": {}
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+    "subTask": {
+      "type": "text",
+      "name": "title",
+      "placeholder": "add item",
+      "validations": {}
+    },
+
+    "taskId": {
+      "type": "select",
+      "name": "taskId",
+      "validations": {}
+    }
+  }
+  
+  
